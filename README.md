@@ -1,6 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=efrainretana100&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=efrainretana100&redirect=true)
 
-![Pachaconjettt's Stats](https://github-readme-stats.vercel.app/api?username=Pachaconjettt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Pachaconjettt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pachaconjettt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
