@@ -19,7 +19,7 @@ I build software through personal and university projects, with a focus on **Pyt
 
 | Project | What you can explore |
 | :--- | :--- |
-| **[Ubot ↗](https://ubotcr.com)** · Personal project, co-created | Educational platform for university admission preparation in Costa Rica. My contributions include Python/OpenAI API integration, containerized deployments with Docker and GitHub Actions, and troubleshooting using Azure logs. **Live product linked; source code is not linked here.** |
+| **[Ubot ↗](https://ubotcr.com)** · Personal project, co-created | Educational platform for university admission preparation in Costa Rica. My contributions include Python/OpenAI API integration, containerized deployments with Docker and GitHub Actions, and troubleshooting using Azure logs. |
 | **[R-CONF Oracle Security Lab](https://github.com/EfrainR06/rconf-oracle-iso27001)** · University project | Oracle confidentiality-risk management lab with SQL scripts, least-privilege access, risk tracking, and audit documentation. Academic prototype; the repository documents its scope, validation limits, and AI assistance. |
 | **[MNIST Superpixels research](https://github.com/EfrainR06/Discretas_pt2)** · University project | Handwritten-digit classification using Python, PyTorch, and Jupyter. Training loss and accuracy exploration, with experiment tracking in Weights & Biases. |
 | **[Veterinary management project](https://github.com/EfrainR06/Proyecto_Veterinaria_Progra1)** · University project | C++ coursework applying matrices, vectors, and programming fundamentals to an application scenario. |
